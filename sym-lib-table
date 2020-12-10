@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name project)(type Legacy)(uri ${KIPRJMOD}/project.lib)(options "")(descr ""))
+  (lib (name ublox)(type Legacy)(uri ${KIPRJMOD}/ublox.lib)(options "")(descr ""))
+  (lib (name ublox-breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/ublox-breakout-rescue.lib)(options "")(descr ""))
+)
