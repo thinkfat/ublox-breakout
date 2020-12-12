@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name project)(type KiCad)(uri ${KIPRJMOD}/project.pretty)(options "")(descr ""))
   (lib (name ublox)(type KiCad)(uri ${KIPRJMOD}/ublox.pretty)(options "")(descr ""))
+  (lib (name bbb)(type KiCad)(uri /home/matze/projects/kicad/bbb-gpsdo/project.pretty)(options "")(descr ""))
 )
