@@ -1,4 +1,4 @@
-update=Mo 14 Dez 2020 22:01:06 CET
+update=Mi 23 Dez 2020 22:19:49 CET
 version=1
 last_client=kicad
 [general]
@@ -253,7 +253,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=50Z
-Clearance=0.5842
+Clearance=0.6
 TrackWidth=0.29337
 ViaDiameter=0.8
 ViaDrill=0.4
