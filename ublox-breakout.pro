@@ -1,4 +1,4 @@
-update=Mi 23 Dez 2020 22:19:49 CET
+update=Fr 01 Jan 2021 15:39:38 CET
 version=1
 last_client=kicad
 [general]
@@ -32,7 +32,7 @@ AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
-MinTrackWidth=0.2
+MinTrackWidth=0.1016
 MinViaDiameter=0.45
 MinViaDrill=0.3
 MinMicroViaDiameter=0.2
@@ -253,7 +253,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=50Z
-Clearance=0.6
+Clearance=0.65
 TrackWidth=0.29337
 ViaDiameter=0.8
 ViaDrill=0.4
@@ -264,12 +264,12 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
 Name=USB
-Clearance=0.2
-TrackWidth=0.25
+Clearance=0.1016
+TrackWidth=0.1778
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
 uViaDrill=0.1
-dPairWidth=0.261112
-dPairGap=0.2032
+dPairWidth=0.1778
+dPairGap=0.1016
 dPairViaGap=0.25
