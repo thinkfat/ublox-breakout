@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.1.8-5.1.8*
-G04 #@! TF.CreationDate,2021-01-04T23:01:06+01:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.1.9-5.1.9*
+G04 #@! TF.CreationDate,2021-01-19T08:54:29+01:00*
 G04 #@! TF.ProjectId,ublox-breakout,75626c6f-782d-4627-9265-616b6f75742e,rev?*
-G04 #@! TF.SameCoordinates,PX71f6ce0PY7cfd120*
+G04 #@! TF.SameCoordinates,PX71f6ce0PY5d47650*
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.1.8-5.1.8) date 2021-01-04 23:01:06*
+G04 Created by KiCad (PCBNEW 5.1.9-5.1.9) date 2021-01-19 08:54:29*
 %MOMM*%
 %LPD*%
 G01*
@@ -14,6 +14,6 @@ G04 APERTURE LIST*
 %ADD10R,3.300000X3.500000*%
 G04 APERTURE END LIST*
 D10*
-X23200000Y13000000D03*
-X23200000Y28800000D03*
+X23200000Y-20250000D03*
+X23200000Y-4450000D03*
 M02*
